@@ -1,0 +1,16 @@
+# IDEs: IntelliJ IDEA and WebStorm
+.idea/
+*.iml
+*.ipr
+*.iws
+# IDEs: VSCode
+.vscode/
+# Build: Dependencies and output files
+dist/
+docs/
+node_modules/
+reports/
+# Other: Miscellaneous files
+.DS_Store
+*.local.*
+*.log

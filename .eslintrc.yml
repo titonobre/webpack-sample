@@ -1,0 +1,16 @@
+extends: standard
+plugins:
+  - standard
+  - promise
+  - node
+env:
+  mocha: true
+rules:
+  indent:
+    - error
+    - 4
+  semi:
+    - error
+    - always
+  space-before-function-paren:
+    - 0
